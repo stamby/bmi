@@ -1,7 +1,7 @@
 # bmi
 A shell script to calculate Body Mass Index (BMI). Based upon `bc`.
 
-Made with the intention to practise the `bc` syntax.
+Made with the intent to practise `bc` syntax.
 
 ```
 Usage: bmi.sh FEET INCHES POUNDS
