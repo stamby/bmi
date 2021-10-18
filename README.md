@@ -8,5 +8,3 @@ Usage: bmi.sh FEET INCHES POUNDS
        bmi.sh --metric CM KG
        bmi.sh --uk FEET INCHES STONE POUNDS
 ```
-
-This script is meant to be compatible with all POSIX-complying shells. If it is not, please report.
